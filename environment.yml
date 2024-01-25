@@ -1,0 +1,14 @@
+name: fret
+dependencies:
+  - python=3.8
+  - jinja2
+  - notebook
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - conda-forge::mdtraj
+  - pip
+  - pip:
+    - mdanalysis==2.0.0
